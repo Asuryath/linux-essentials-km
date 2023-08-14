@@ -18,7 +18,7 @@
 * Manpages `man <kommando>`: gibt es in der Regel nur für _extern_ realisierte Kommandos, nicht für _Builtins_ (z.B. `cd`, `export`, `alias` usw.)
 * `help <builtin>` zeigt die Hifle Seite für Builtins an
 * `help` Liste aller Builtins
-* `type <kommanod>` zeigt die Art eines Kommandos an: extern, Builtin, Alias etc.
+* `type <kommando>` zeigt die Art eines Kommandos an: extern, Builtin, Alias etc.
 * Info System: `info <kommando>` zeigt die Info-Seite eines Kommandos an. Info Seiten sind noch ausführlicher als die Manpages, gibt es aber nicht für alle Kommandos, muss mit `apt install info` installiert werden
 
 == Pfadangaben
